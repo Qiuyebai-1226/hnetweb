@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hnetweb.nbzdwss78.tk'
+const BAREURL = 'https://ip.159632.xyz/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
